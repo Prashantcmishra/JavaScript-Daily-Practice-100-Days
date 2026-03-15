@@ -388,3 +388,5 @@
 // }else{
 //     console.log("Normal and Both Condition did not matched")
 // }
+
+// Q.37 
