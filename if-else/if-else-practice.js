@@ -389,4 +389,38 @@
 //     console.log("Normal and Both Condition did not matched")
 // }
 
-// Q.37 
+// Q.37 Century Year
+
+// let year = 2004;
+
+// if(year % 100 === 0){
+//     console.log("Century Year")
+// }else{
+//     console.log("Non Century Year");
+// }
+
+
+// Q.38 Distinction / First / Second
+
+// let marks = 72;
+
+// if(marks >=75) console.log("Distinction");
+// else if (marks >=60) console.log("First Class");
+// else console.log("Second Class")
+
+
+// Q.39 Temperature freezing
+
+// let temp = 72;
+
+// if(temp <=0) console.log("Freezing");
+// else console.log("Just to complete the better if else code");
+
+
+// Q.40 Age group
+
+// let age = 23;
+
+// if( age <= 18) console.log("Child");
+// else if (age < 60) console.log("Adult");
+// else console.log('Senior');
